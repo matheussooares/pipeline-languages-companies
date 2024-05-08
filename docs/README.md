@@ -13,3 +13,5 @@ import requests
 [Quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
 
 A biblioteca Requests facilita o envio e recebimento de informações pela internet.
+
+[git amazon](https://github.com/amzn)
