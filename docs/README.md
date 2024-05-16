@@ -36,8 +36,9 @@ O Github será utilizado como fonte dos dadados. Através da API, teremos acesso
 
 
 ## Referências 
-
-[Quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
-
-
-[git amazon](https://github.com/amzn)
+1. [Millena Gená Pereira](https://cursos.alura.com.br/user/millenagena)
+2. [Python e APIs: conhecendo a biblioteca Requests](https://cursos.alura.com.br/course/python-apis-conhecendo-biblioteca-requests)
+3. [Quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
+4. [git amazon](https://github.com/amzn)
+5. [git spotify](https://github.com/spotify)
+6. [git netflix](https://github.com/netflix)
